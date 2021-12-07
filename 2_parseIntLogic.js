@@ -1,5 +1,7 @@
 "use strict";
 
+// Write logic that implements parseInt.
+
 function myParseInt(str) {
 	let result = "";
 
